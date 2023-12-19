@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: azure;
+}
+
+.text {
+    margin-top: 580px;
+}
+
+.title{
+    color: aliceblue;
+}
+
+p {
+    font-size: 24px;
+    font-family: Rubik Doodle Shadow;
+    line-height: 2;
+}
